@@ -20,7 +20,7 @@ Route::layout('layouts.auth')->group(function () {
         Route::livewire('login', 'auth.login')
             ->name('login');
 
-        Route::livewire('register', 'auth.register')
+        Route::livewire('register', 'auth.login')
             ->name('register');
     });
 
