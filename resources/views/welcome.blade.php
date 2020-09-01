@@ -30,6 +30,7 @@
                     <h1 class="text-5xl font-extrabold tracking-wider text-center text-gray-600">
                         {{ config('app.name') }}
                     </h1>
+                    <p class="text-center text-gray-600">Coming Soon...</p>
                 </div>
             </div>
         </div>
